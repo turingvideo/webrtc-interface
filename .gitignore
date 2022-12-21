@@ -21,3 +21,9 @@ doc/api/
 *.js.map
 
 .DS_Store
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/webrtc-interface.iml
+.idea/workspace.xml
